@@ -21,7 +21,7 @@ role: 清华大学-研究员
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name:清华大学
+  - name: 清华大学
     url: https://www.tsinghua.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
