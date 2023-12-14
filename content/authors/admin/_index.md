@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-   - course: PhD in Tsinghua University
+    - course: PhD in Tsinghua University
       institution: Computer science
       year: 2012
     - course: BSc in Xi 'an Jiaotong University
