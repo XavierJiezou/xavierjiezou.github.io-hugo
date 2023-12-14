@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 兴军亮
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Junliang Xing
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Junliang Xing
+last_name: Xing
 
 # Status emoji
 status:
@@ -17,34 +17,31 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Researcher of Tsinghua University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tsinghua University
+    url: https://www.tsinghua.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Xing Junliang is a researcher in the Department of Computer Science at Tsinghua University. His research direction is visual situation awareness and game adversarial decision-making. He has published more than 60 CCF-A papers, more than 40 first/corresponding author papers, more than 16,000 citations, won three important international conference paper awards, and won six technical challenges at home and abroad. Won the first prize of Wu Wenjun Artificial Intelligence Natural Science as the first complete person; He has been a position professor of Chinese Academy of Sciences, chief professor of four courses including Game Theory, researcher of Institute of Automation of Chinese Academy of Sciences (promotion), special young backbone, doctoral supervisor; Presided over more than 10 major projects including national defense key projects and "new generation of artificial intelligence", responsible for more than 200 million yuan of funding; A number of technologies have been verified and applied in important scenarios, resulting in good social and economic benefits. OpenHoldem, the first large-scale imperfect information game platform in the academic world, was opened, and the game performance of the Texas Holdem imperfect information game AI program developed exceeded the best published model DeepStack, and the speed was increased by more than 1000 times.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human-computer interactive learning
+  - Computer games
+  - Computer vision
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+   - course: PhD in Tsinghua University
+      institution: Computer science
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Xi 'an Jiaotong University
+      institution: Computer science and Mathematics
+      year: 2007
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xing Junliang is a researcher in the Department of Computer Science at Tsinghua University. His research direction is visual situation awareness and game adversarial decision-making. He has published more than 60 CCF-A papers, more than 40 first/corresponding author papers, more than 16,000 citations, won three important international conference paper awards, and won six technical challenges at home and abroad. Won the first prize of Wu Wenjun Artificial Intelligence Natural Science as the first complete person; He has been a position professor of Chinese Academy of Sciences, chief professor of four courses including Game Theory, researcher of Institute of Automation of Chinese Academy of Sciences (promotion), special young backbone, doctoral supervisor; Presided over more than 10 major projects including national defense key projects and "new generation of artificial intelligence", responsible for more than 200 million yuan of funding; A number of technologies have been verified and applied in important scenarios, resulting in good social and economic benefits. OpenHoldem, the first large-scale imperfect information game platform in the academic world, was opened, and the game performance of the Texas Holdem imperfect information game AI program developed exceeded the best published model DeepStack, and the speed was increased by more than 1000 times.
 {style="text-align: justify;"}
