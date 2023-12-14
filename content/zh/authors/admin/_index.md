@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 清华大学-研究员
+role: 清华大学计算机科学与技术系研究员
 
 # Organizations/Affiliations to show in About widget
 organizations:
