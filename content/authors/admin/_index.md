@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 兴军亮
+title: Junliang Xing
 
 # Name pronunciation (optional)
-name_pronunciation: Junliang Xing
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Junliang Xing
