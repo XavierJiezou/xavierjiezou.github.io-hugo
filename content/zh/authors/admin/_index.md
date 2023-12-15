@@ -22,7 +22,7 @@ role: 清华大学计算机科学与技术系研究员
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: 清华大学
-    url: https://www.tsinghua.edu.cn
+    url: https://www.cs.tsinghua.edu.cn/info/1116/5088.htm
 
 # Short bio (displayed in user profile at end of posts)
 bio: 兴军亮，现为清华大学计算机系研究员，国家“优青”，研究方向为视觉态势感知和博弈对抗决策，发表CCF-A类论文60余篇，第一/通信作者论文40余篇，引用超16000次，曾3次获重要国际会议论文奖、6次在国内外技术挑战赛中夺冠，以第一完成人获吴文俊人工智能自然科学一等奖；曾任中科院岗位教授、《博弈论》等四门课程首席教授，中科院自动化所研究员（破格晋升）、特聘青年骨干、博士生导师；主持包括国防重点项目课题及“新一代人工智能”重大项目课题十余项，负责经费超过2亿；多项技术在重要场景得到验证和应用，产生了良好社会经济效益。开放了学界首个大规模不完美信息博弈平台OpenHoldem，研发的德州扑克不完美信息博弈AI程序AlphaHoldem博弈性能超过已公开最好模型DeepStack，速度较之提升超过1000倍。
@@ -30,7 +30,7 @@ bio: 兴军亮，现为清华大学计算机系研究员，国家“优青”，
 # Interests to show in About widget
 interests:
   - 人机交互学习
-  - 计算机游戏
+  - 计算机博弈
   - 计算机视觉
 
 # Education to show in About widget
