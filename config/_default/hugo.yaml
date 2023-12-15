@@ -10,7 +10,7 @@ baseURL: 'https://pi.cs.tsinghua.edu.cn/lab/people/JunliangXing/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
