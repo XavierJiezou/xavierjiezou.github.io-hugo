@@ -6,17 +6,47 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  # contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
- languageCode: zh-Hans
- contentDir: content/zh
- title: 兴军亮
- params:
-   description: 兴军亮的个人主页
- menu:
-   main:
-     - name: 传
-       url: '#about'
-       weight: 1
+  languageCode: zh-Hans
+  contentDir: content/zh
+  title: 欢迎访问
+  params:
+    description: 兴军亮的个人主页
+  menu:
+    main:
+      - name: 简介
+        url: "#about"
+        weight: 10
+      - name: 动态
+        url: "#posts"
+        weight: 20
+      - name: 经历
+        url: "#experience"
+        weight: 30
+      - name: 授课
+        url: "#teaching"
+        weight: 40
+      - name: 代表作
+        url: "#featured"
+        weight: 50
+      - name: 论文
+        url: "#publications"
+        weight: 60
+      - name: 奖励
+        url: "#accomplishments"
+        weight: 70
+      - name: 专利
+        url: "#patents"
+        weight: 80
+      - name: 公共服务
+        url: "#service"
+        weight: 90
+      - name: 联系方式
+        url: "#contact"
+        weight: 100
+      - name: 个人简历
+        url: ../uploads/resume.pdf
+        weight: 110

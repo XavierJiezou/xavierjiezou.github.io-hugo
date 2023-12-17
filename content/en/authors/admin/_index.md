@@ -20,9 +20,9 @@ superuser: true
 role: Researcher of Tsinghua University
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Tsinghua University
-    url: https://www.tsinghua.edu.cn
+# organizations:
+#   - name: Tsinghua University
+#     url: https://www.tsinghua.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
 bio: Xing Junliang is a researcher in the Department of Computer Science at Tsinghua University. His research direction is visual situation awareness and game adversarial decision-making. He has published more than 60 CCF-A papers, more than 40 first/corresponding author papers, more than 16,000 citations, won three important international conference paper awards, and won six technical challenges at home and abroad. Won the first prize of Wu Wenjun Artificial Intelligence Natural Science as the first complete person; He has been a position professor of Chinese Academy of Sciences, chief professor of four courses including Game Theory, researcher of Institute of Automation of Chinese Academy of Sciences (promotion), special young backbone, doctoral supervisor; Presided over more than 10 major projects including national defense key projects and "new generation of artificial intelligence", responsible for more than 200 million yuan of funding; A number of technologies have been verified and applied in important scenarios, resulting in good social and economic benefits. OpenHoldem, the first large-scale imperfect information game platform in the academic world, was opened, and the game performance of the Texas Holdem imperfect information game AI program developed exceeded the best published model DeepStack, and the speed was increased by more than 1000 times.
@@ -36,13 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Tsinghua University
-      institution: Computer Science
-      year: 2007.09-2012.07 
-    - course: BSc in Xi’an Jiaotong University
-      institution: Computer Science and Mathematics
-      year: 2003.09-2007.07
-
+    - course: PhD in Computer Science and Technology
+      institution: Tsinghua University
+      year: 2007-2012
+    - course: BSc in Computer Science and Technology, and Applied Mathematics (Dual Bachelor's Degree in Engineering and Science)
+      institution: Xi'an Jiaotong University
+      year: 2003-2007
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 # skills:
@@ -111,7 +110,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: ../uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

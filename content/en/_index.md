@@ -39,13 +39,13 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: 个人简介
+      title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
     id: posts
     content:
-      title: 最新动态
+      title: Recent Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -72,7 +72,7 @@ sections:
   - block: experience
     id: experience
     content:
-      title: 工作经历
+      title: Work Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -82,69 +82,69 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 研究员
-          company: 清华大学计算机科学与技术系
+        - title: Researcher
+          company: Department of Computer Science and Technology at Tsinghua University
           company_url: ''
           company_logo: 
-          location: 中国，北京
+          location: China, Beijing
           date_start: '2022-02-01'
           date_end: ''
-          description: 在清华大学计算机科学与技术系从事研究工作。
-        - title: 研究员
-          company: 中科院自动化所模式识别国家重点实验室
+          description: Engaged in research at the Department of Computer Science and Technology, Tsinghua University.
+        - title: Researcher
+          company: National Key Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences.
           company_url: ''
           company_logo: 
-          location: 中国，北京
+          location: China, Beijing
           date_start: '2018-11-01'
           date_end: '2022-01-31'
-          description: 在中科院自动化所模式识别国家重点实验室担任研究员一职，积累丰富研究经验。
-        - title: 副研究员
-          company: 中科院自动化所模式识别国家重点实验室
+          description: Served as a researcher at the State Key Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, accumulating rich research experience.
+        - title: Associate Researcher
+          company: State Key Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
           company_url: ''
           company_logo: 
-          location: 中国，北京
+          location: China, Beijing
           date_start: '2015-11-01'
           date_end: '2018-10-31'
-          description: 担任副研究员一职，积累模式识别领域的研究经验。
-        - title: “铸星计划”访问教授
-          company: 微软亚洲研究院
+          description: Served as an Associate Researcher, accumulating research experience in the field of pattern recognition.
+        - title: Visiting Professor, "Star Cast" Program
+          company: Microsoft Research Asia
           company_url: ''
           company_logo: 
-          location: 中国，北京
+          location: China, Beijing
           date_start: '2015-04-01'
           date_end: '2015-10-01'
-          description: 作为“铸星计划”访问教授，与微软亚洲研究院合作开展研究项目。
-        - title: 访问研究员
-          company: 新加坡国立大学
+          description: As a visiting professor in the "Star Cast" program, collaborated with Microsoft Research Asia on research projects.
+        - title: Visiting Researcher
+          company: National University of Singapore
           company_url: ''
           company_logo: 
-          location: 新加坡
+          location: Singapore
           date_start: '2012-12-01'
           date_end: '2013-11-01'
-          description: 在新加坡国立大学进行访问研究，拓宽学术视野。
-        - title: 助理研究员
-          company: 中科院自动化所模式识别国家重点实验室
+          description: Conducted visiting research at the National University of Singapore, broadening academic perspectives.
+        - title: Assistant Researcher
+          company: State Key Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
           company_url: ''
           company_logo: 
-          location: 中国，北京
+          location: China, Beijing
           date_start: '2012-07-01'
           date_end: '2015-10-01'
-          description: 作为助理研究员，参与模式识别国家重点实验室的研究工作。
+          description: As an Assistant Researcher, actively participated in research projects at the State Key Laboratory of Pattern Recognition.
     design:
       columns: '2'
   - block: markdown
     id: teaching
     content:
-      title: 课程讲授
+      title: Teaching
       text: |-
-        - 《博弈论》：中国科学院大学，研究生课程，20学时，2017年~2019年
-        - 《计算博弈原理与应用》：中国科学院大学，研究生课程，42学时，2019年-2022年
+        - "Game Theory": University of Chinese Academy of Sciences, graduate course, 20 class hours, 2017-2019.
+        - "Principles and Applications of Computational Game Theory": University of Chinese Academy of Sciences, graduate course, 42 class hours, 2019-2022.
     design:
       columns: '2'
   - block: collection
     id: featured
     content:
-      title: 代表作
+      title: Featured Publications
       filters:
         folders:
           - publication
@@ -155,7 +155,7 @@ sections:
   - block: collection
     id: publications
     content: 
-      title: 论文成果
+      title: Paper Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -171,7 +171,7 @@ sections:
     id: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: '荣获奖励'
+      title: 'Honour and Award'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -248,7 +248,7 @@ sections:
   - block: markdown
     id: patents
     content:
-      title: 专利
+      title: Patents
       text: |-
         1. xxx
         2. xxx
@@ -258,7 +258,7 @@ sections:
   - block: markdown
     id: service
     content:
-      title: 公共服务
+      title: Services
       text: |-
         1. xxx
         2. xxx
@@ -277,7 +277,7 @@ sections:
   #     view: compact
   - block: tag_cloud
     content:
-      title: 关键字
+      title: Popular Topics
     design:
       columns: '2'
   - block: contact
@@ -291,11 +291,11 @@ sections:
       phone: 62577078
       # appointment_url: 'https://calendly.com'
       address:
-        street: 清华大学FIT楼3层526室
-        city: 北京市
-        region: 海淀区
+        street: FIT 3-526 of Tsinghua University
+        city: Beijing
+        region: Haidian
         postcode: '100084'
-        country: 中国
+        country: China
         country_code: 
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
